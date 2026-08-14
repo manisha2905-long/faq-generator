@@ -1,0 +1,6 @@
+{
+  "name": "FAQ Generator",
+  "description": "Generate clear, structured FAQs, tips, and actionable recommendations on any topic using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
